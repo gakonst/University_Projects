@@ -1,0 +1,5 @@
+Strategy tip for those finding it difficult:
+
+You'll notice that as the game progresses, the screen fills up with tiles that get "locked in" when they become surrounded by other tiles. These are the ones that will determine your score.
+
+The idea is to only "capture" a tile if in doing so you completely block access to that tile. That way, the opponent cannot recapture it. You can use low-scoring tiles defensively, to lock in your own tiles to protect them from the opponent, or to raise 18 and 19 tiles to 20. On the Quickstart game I just played, this strategy gave me a +200 lead at the end of the game.
